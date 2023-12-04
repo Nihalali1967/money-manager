@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//money-manager.github.io/money-manager/static/css/main.e6c13ad2.css",
+    "main.js": "/https//money-manager.github.io/money-manager/static/js/main.59fa4d28.js",
+    "index.html": "/https//money-manager.github.io/money-manager/index.html",
+    "main.e6c13ad2.css.map": "/https//money-manager.github.io/money-manager/static/css/main.e6c13ad2.css.map",
+    "main.59fa4d28.js.map": "/https//money-manager.github.io/money-manager/static/js/main.59fa4d28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.59fa4d28.js"
+  ]
+}
